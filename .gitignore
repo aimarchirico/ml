@@ -1,0 +1,4 @@
+*.csv
+.venv/
+__pycache__/
+catboost_info/
